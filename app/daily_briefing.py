@@ -12,6 +12,8 @@ load_dotenv()
 
 USER_NAME = os.getenv("USER_NAME", default="Player 1")
 
+USER_NAME = os.getenv("USER_NAME", default="Player 1")
+
 
 if __name__ == "__main__":
 
